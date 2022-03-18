@@ -1,6 +1,6 @@
 # embedded-uno
 ## Dependencies
-### - nRF24Communication lib
+### - LoRaCommunication lib
 It's submodule of [communication-embedded](https://github.com/silviohenriquev/communication-embedded/).
 - So, to clone this repository please use: 
 
